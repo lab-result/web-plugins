@@ -1,0 +1,46 @@
+[
+  {
+    "field": "name",
+    "desc": "Name"
+  },
+  {
+    "field": "email",
+    "desc": "Email Address"
+  },
+  {
+    "field": "picURL",
+    "desc": "Profile Picture"  
+  },
+  {
+    "field": "educations",
+    "desc": "Education"
+  },
+  {
+    "field": "doc_practicingSince",
+    "desc": "Starting Date of Practice"
+  },
+  {
+    "field": "doc_professions",
+    "desc": "Professions"
+  },
+  {
+    "field": "doc_specialties",
+    "desc": "Specialties"
+  },
+  {
+    "field": "doc_website",
+    "desc": "Website URL"
+  },
+  {
+    "field": "doc_websitebg",
+    "desc": "Website Theme"
+  },
+  {
+    "field": "doc_bio",
+    "desc": "Biography"
+  },
+  {
+    "field": "tags",
+    "desc": "Tags"
+  }
+]

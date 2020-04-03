@@ -1,0 +1,173 @@
+[
+  {
+    "title": "Setting up your Billing",
+    "subtitle": "",
+    "video": null,
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide001.png?alt=media&token=273894f2-9690-42f9-baa7-7055c73a01ae",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide002.png?alt=media&token=a007b761-98d2-479a-a53d-d966c33ec5b0",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide003.png?alt=media&token=214a3a63-0314-404b-8249-13be0f1f59e2",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide004.png?alt=media&token=0ff4c932-d767-4be3-ac64-51889c357377",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide005.png?alt=media&token=811708a6-e40c-4b22-a36c-98caf45bac37",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide006.png?alt=media&token=2fae91a1-609d-4174-8294-35904592cc5a",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide007.png?alt=media&token=e5c5e78b-71fd-48c2-84c6-4ff05e63672c",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide008.png?alt=media&token=a43ad6d6-a34b-495b-80f4-283281efe55e",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide009.png?alt=media&token=228f31c5-2bc8-4ca8-a935-7460483dcb88",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide010.png?alt=media&token=06f4c5da-745b-4ec9-9267-e56f7909e84b",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide011.png?alt=media&token=f3b7a4c7-e978-43d9-8a05-1aa35b43b37b",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide012.png?alt=media&token=8848aa75-7e59-4d22-a959-241fc764122c",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide013.png?alt=media&token=ac9de769-c20e-4042-8f7b-6c46e8285655",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide014.png?alt=media&token=85f2c329-9028-40d6-83c2-8457e0146252",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide015.png?alt=media&token=8945ae0f-3227-4b0a-b32e-edf125e98dee",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide016.png?alt=media&token=7eecc811-6b04-4445-9d2d-ebd823332893",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide017.png?alt=media&token=cc0886e8-66b5-4612-b3e4-a3b547f2f847",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide018.png?alt=media&token=bd35f9f7-3cdd-47f7-92a2-3e0a540dfdef",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide019.png?alt=media&token=69cd0364-4d85-4e40-94a4-44d8bacdd87a",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide020.png?alt=media&token=5d72a404-248b-4f1f-9f21-cbdd1b8c8e8a",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide021.png?alt=media&token=a3d26d0f-0c7a-4d1b-b9da-5dd4fc2d5658"
+    ]
+  },
+  {
+    "title": "Importing Patient Information via Excel",
+    "subtitle": "(For Doctors Only)",
+    "video": null,
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide022.png?alt=media&token=b1fcd668-605b-475d-bbff-cec250145d87",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide023.png?alt=media&token=823b8d6d-c162-49da-9346-ecb933b11c36",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide024.png?alt=media&token=5ef3ded2-3a23-438d-bc14-2cb73849703f",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide025.png?alt=media&token=c762e464-0cfa-4065-a6b3-93f7e8c5d78b",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide026.png?alt=media&token=b0e07e7f-7ec6-4029-9b24-3994feaf2760",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide027.png?alt=media&token=d0a82854-98d9-463d-9980-255552647885",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide028.png?alt=media&token=631a5fde-75e1-4699-8c93-9819704cc94d",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide029.png?alt=media&token=b2f2ad1a-c6a5-4a2e-ab31-af61779bbe57"
+    ]
+  },
+  {
+    "title": "Adding a New Patient",
+    "subtitle": "(Without a Secretary)",
+    "video": null,
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide030.png?alt=media&token=ebe33718-ac05-45e0-a6fe-3ed3f1f1b4f0",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide031.png?alt=media&token=1894106f-aadb-48c9-a3c9-973c09a6fd4b",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide032.png?alt=media&token=6c546673-7757-4392-91fe-0ba777c4760d",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide033.png?alt=media&token=dc78d77c-6e62-413b-aa4a-3ba2fde14cfb",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide034.png?alt=media&token=df87978a-d04e-43bb-8567-e051ad14befe",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide035.png?alt=media&token=07d91218-364f-44d1-b6ca-12a93509c4f2"
+    ]
+  },
+  {
+    "title": "Creating an Encounter",
+    "subtitle": "(Without a Secretary)",
+    "video": null,
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide036.png?alt=media&token=b3c8eeaf-8e8f-4b82-9d2f-be639433415a",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide037.png?alt=media&token=e55a4630-fa0e-4858-a3ee-faf6aad1f63f",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide038.png?alt=media&token=c3f20bf0-8db4-4d29-ba94-d5f648ab5317",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide039.png?alt=media&token=ef00bae5-5439-49e1-bd98-f40ac38ad060",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide040.png?alt=media&token=4e375091-e2f6-40e9-84c4-59ff4077b1bf",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide041.png?alt=media&token=f47e3e1c-8239-4edd-a7aa-724e1a031cfa",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide042.png?alt=media&token=8406b430-7c12-419c-a1b0-f9856f5aaf0a",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide043.png?alt=media&token=eedab72d-7084-4963-a44b-fb2c1b11a480",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide044.png?alt=media&token=28ef78e3-890b-46af-8f16-e6d14ec00c8b",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide045.png?alt=media&token=cbac2b96-e4c3-4874-8f8d-def6cdbc663d",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide046.png?alt=media&token=de62776f-9c08-47d9-9a40-1a65cee7b146",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide047.png?alt=media&token=e376103f-5e5d-4f5e-80f0-b46bedae945a",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide048.png?alt=media&token=b25d46ad-54b1-4ecc-be43-8c46f25bae04",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide049.png?alt=media&token=6a7a12dd-45f3-491b-be70-f3bb911bc8ac",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide050.png?alt=media&token=f5ad4a7c-bc8f-4fd5-8101-574bc4353b4b",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide051.png?alt=media&token=88865d0d-68d1-48be-a0f8-d677f65cb00a",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide052.png?alt=media&token=dfb894ba-634b-4469-80fe-2c888c0f8ce0",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide053.png?alt=media&token=28b642f4-9da1-4f05-9571-685d7f40886d"
+    ]
+  },
+  {
+    "title": "Creating Queues",
+    "subtitle": "",
+    "video": null,
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide054.png?alt=media&token=23e03dd3-2efc-4e64-afea-5879ee20ec1c",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide055.png?alt=media&token=e9823b8b-53f4-4b29-8a47-8765779a566c",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide056.png?alt=media&token=9d419f4d-295e-48f1-9ea8-19f742ecaf54",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide057.png?alt=media&token=bba40994-59d2-4aa9-a69d-07794c4a233e",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide058.png?alt=media&token=1b7025ad-3fb0-4d3e-9753-07f976a97542",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide059.png?alt=media&token=22e82faf-d261-47ce-b0a0-420dde633cee"
+    ]
+  },
+  {
+    "title": "Inviting Your Secretary",
+    "subtitle": "",
+    "video": null,
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide060.png?alt=media&token=42021338-9953-455e-afcb-aef3c843bcf9",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide061.png?alt=media&token=ef62bacb-acd4-4e11-b1f2-734a28252dc3",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide062.png?alt=media&token=df642a1b-dae9-499d-9e08-19ca88cf6f7a",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide063.png?alt=media&token=057d7a85-5092-4669-8a05-478f1ceaf97a",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide064.png?alt=media&token=a22da482-5b84-4d52-be00-103d64ba5402",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide065.png?alt=media&token=7ade4d60-87c4-429c-b9ea-2884d56cdc66"
+    ]
+  },
+  {
+    "title": "Setting up Queues",
+    "subtitle": "(For Secretaries Only)",
+    "video": null,
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide066.png?alt=media&token=407a51ed-5a2b-4a4f-8088-2be5aad0f634",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide067.png?alt=media&token=14e6f92b-310c-4a26-8ce7-ad2b539ca309",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide068.png?alt=media&token=5ed99ac2-644b-4c7c-9356-715cdb93891d",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide069.png?alt=media&token=ac5385e8-3dc4-4c30-8471-0bf52b312483",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide070.png?alt=media&token=6168129b-3457-4060-98ea-611f12f37851",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide071.png?alt=media&token=5fc1974c-d65c-4dfd-8f70-8837745a25c0",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide072.png?alt=media&token=ad4c967c-9a62-4818-b5e3-a265017618c3",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide073.png?alt=media&token=2a4fcd6d-db0f-4568-bdd2-9e04a6a33b2f",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide074.png?alt=media&token=8f1f9b22-76d2-47fc-8e79-c7b74581589e",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide075.png?alt=media&token=69988ebb-24aa-4831-a31c-087d63c26aaf",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide076.png?alt=media&token=a1afac11-e4cb-4de2-a695-d495f96ea4f2",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide077.png?alt=media&token=948390f6-429f-4e8e-a083-5cbfde06c443",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide078.png?alt=media&token=a314e5c2-2845-4df3-b2e8-bf2e1b8e0ee7",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide079.png?alt=media&token=fb602f2b-e165-4569-87a5-48338dfce7b1",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide080.png?alt=media&token=6112c8b3-b82a-4441-8507-04cf568a5573",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide081.png?alt=media&token=aecb4938-f17f-410f-8483-e52245ebecaf",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide082.png?alt=media&token=da696d8b-95b2-4b52-b896-6c03c89232ab"
+    ]
+  },
+  {
+    "title": "Checking a Patient In",
+    "subtitle": "(For Secretaries Only)",
+    "video": null,
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide083.png?alt=media&token=38aade8e-a3f9-4e44-b23b-ddad34aaf7e5",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide084.png?alt=media&token=ef3a47fb-810b-4cb5-852b-7175fd1764a8",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide085.png?alt=media&token=015d6b86-1f89-4ea4-af32-a16a306a605d",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide086.png?alt=media&token=5a4fc34d-c53b-4b41-bf92-e8bb4cabdb29",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide087.png?alt=media&token=dc79d2a0-0bdf-4095-9bbb-131e4363a967"
+    ]
+  },
+  {
+    "title": "Creating an Appointment",
+    "subtitle": "(For Secretaries Only)",
+    "video": null,
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide088.png?alt=media&token=c8bdd11e-7c9f-4c1e-9b34-d8eae0492551",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide089.png?alt=media&token=adfb4970-6041-40fc-883d-6b071c1b7a23",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide090.png?alt=media&token=740fdcdb-6fac-47f9-b9a9-2ae0346e6bb4",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide091.png?alt=media&token=9248e38d-4915-40c7-926d-5682de073b03",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide092.png?alt=media&token=528f1d2f-80fa-44dd-a257-0c87caad0944",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide093.png?alt=media&token=3dec20d1-696d-40f9-aa0e-a55e99a4f5e6",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide094.png?alt=media&token=8ecfb3fd-9732-4e9e-af02-eab46d3c5a91",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide095.png?alt=media&token=f815a5b7-db74-464e-a8d3-dd4377b3852a"
+    ]
+  },
+  {
+    "title": "Managing Patient List",
+    "subtitle": "(For Secretaries Only)",
+    "video": null,
+    "images": [
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide096.png?alt=media&token=64cc0207-2062-4e39-9be7-054d3bb646d2",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide097.png?alt=media&token=b60917c2-05f0-4df0-a784-1891e3ff3f59",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide098.png?alt=media&token=d7ec26c6-1ccf-450b-bcab-3ad4f1a28770",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide099.png?alt=media&token=0d2de2a3-c8f7-4563-80e8-c2af6f4565eb",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide100.png?alt=media&token=e7aa4dd1-cdac-470c-9e4d-02b737820579",
+      "https://firebasestorage.googleapis.com/v0/b/mc-v4-prod.appspot.com/o/cms-assets%2FSlide101.png?alt=media&token=eceb2af7-716d-472c-a8a3-f93d10256050"
+    ]
+  }
+]

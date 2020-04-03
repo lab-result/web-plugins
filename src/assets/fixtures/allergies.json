@@ -1,0 +1,378 @@
+[
+  {
+    "description": "Inhalant",
+    "name": "Acacia"
+  },
+  {
+    "description": "Various foods",
+    "name": "Almonds"
+  },
+  {
+    "description": "Fruits",
+    "name": "Apple"
+  },
+  {
+    "description": "Various foods",
+    "name": "Baker's Yeast"
+  },
+  {
+    "description": "Redness, swelling, itching, allergic contact dermatitis reactions, stomatitis (inflammation and soreness of the mouth or tongue), cheilitis (inflammation, rash, or painful erosion of the lips, oropharyngeal mucosa, or angles of their mouth), pruritis, hand eczema, generalized or resistant plantar dermatitis, rhinitis, conjunctivitis, and blisters.",
+    "name": "Balsam of Peru"
+  },
+  {
+    "description": "Fruits",
+    "name": "Banana"
+  },
+  {
+    "description": "Meats and Seafoods",
+    "name": "Beef"
+  },
+  {
+    "description": "Various foods",
+    "name": "Brewer's Yeast"
+  },
+  {
+    "description": "Various foods",
+    "name": "Cabbage"
+  },
+  {
+    "description": "Fruits",
+    "name": "Cantaloupe"
+  },
+  {
+    "description": "Various foods",
+    "name": "Carrots"
+  },
+  {
+    "description": "Sneezing, itchy swollen eyes.",
+    "name": "Cat Hair"
+  },
+  {
+    "description": "Various foods",
+    "name": "Celery"
+  },
+  {
+    "description": "Maculopapular or morbilliform skin eruption, and less commonly urticaria, eosinophilia, serum-sickness–like reactions, and anaphylaxis.",
+    "name": "Cephalosporins"
+  },
+  {
+    "description": "Meats and Seafoods",
+    "name": "Chicken"
+  },
+  {
+    "description": "Various foods",
+    "name": "Chocolate"
+  },
+  {
+    "description": "Allergic contact dermatitis",
+    "name": "Chromium"
+  },
+  {
+    "description": "Meats and Seafoods",
+    "name": "Clams"
+  },
+  {
+    "description": "Allergic contact dermatitis",
+    "name": "Cobalt chloride"
+  },
+  {
+    "description": "Inhalant",
+    "name": "Cockroach"
+  },
+  {
+    "description": "Various foods",
+    "name": "Coffee"
+  },
+  {
+    "description": "Various foods",
+    "name": "Corn"
+  },
+  {
+    "description": "Contact dermatitis, irritant contact dermatitis, inflammation, redness, conjunctivitis.",
+    "name": "Cosmetics"
+  },
+  {
+    "description": "Inhalant",
+    "name": "Cotton Linteers"
+  },
+  {
+    "description": "Various foods",
+    "name": "Cow's Milk"
+  },
+  {
+    "description": "Meats and Seafoods",
+    "name": "Crab"
+  },
+  {
+    "description": "Many, including: swollen glands, easy bruising or bleeding, fever, sore throat.",
+    "name": "Dilantin"
+  },
+  {
+    "description": "Rash, sneezing, congestion, wheezing, vomiting from coughing, Sometimes itchy welts.",
+    "name": "Dog Hair"
+  },
+  {
+    "description": "Inhalant",
+    "name": "Dust Mite"
+  },
+  {
+    "description": "Anaphylaxis, sometimes flatulence and vomiting.",
+    "name": "Egg"
+  },
+  {
+    "description": "Inhalant",
+    "name": "Feathers"
+  },
+  {
+    "description": "Inhalant",
+    "name": "Fire Ant"
+  },
+  {
+    "description": "Anaphylaxis, sometimes vomiting.",
+    "name": "Fish/Shellfish"
+  },
+  {
+    "description": "Allergic contact dermatitis",
+    "name": "Formaldehyde"
+  },
+  {
+    "description": "Mild itching, rash, blisters at point of oral contact.",
+    "name": "Fruit"
+  },
+  {
+    "description": "Allergic contact dermatitis, fever, anaphylaxis",
+    "name": "Fungicide"
+  },
+  {
+    "description": "Dermatitis, asymmetrical pattern of fissure, thickening/shedding of the outer skin layers, anaphylaxis",
+    "name": "Garlic"
+  },
+  {
+    "description": "Anaphylaxis, sometimes vomiting.",
+    "name": "Gluten"
+  },
+  {
+    "description": "Various foods",
+    "name": "Goat's Milk"
+  },
+  {
+    "description": "Allergic contact dermatitis.",
+    "name": "Gold"
+  },
+  {
+    "description": "Inhalant",
+    "name": "Grass Mix"
+  },
+  {
+    "description": "Inhalant",
+    "name": "Horse Hair"
+  },
+  {
+    "description": "Skin rash, hives, throat tightness, tongue swelling, possible vomiting.",
+    "name": "Hot Peppers"
+  },
+  {
+    "description": "Asthma",
+    "name": "House dust"
+  },
+  {
+    "description": "Hives, wheezing, possible anaphylaxis.",
+    "name": "Insect sting"
+  },
+  {
+    "description": "Anaphylactoid reactions and contrast-induced nephropathy",
+    "name": "Intravenous contrast dye"
+  },
+  {
+    "description": "Inhalant",
+    "name": "Java cotton (Kapok)"
+  },
+  {
+    "description": "Contact dermatitis, hypersensitivity.",
+    "name": "Latex"
+  },
+  {
+    "description": "Fruits",
+    "name": "Lemon"
+  },
+  {
+    "description": "Urticaria and rash, dyspnea, wheezing, flushing, cyanosis, tachycardia.",
+    "name": "Local anesthetics"
+  },
+  {
+    "description": "Fruits",
+    "name": "Mango"
+  },
+  {
+    "description": "Dermatitis, rarely anaphylaxis.",
+    "name": "Meat"
+  },
+  {
+    "description": "Skin rash, hives, vomiting, diarrhea, constipation, stomach pain, flatulence, nasal congestion, dermatitis, blisters, anaphylaxis.",
+    "name": "Milk"
+  },
+  {
+    "description": "Meats and Seafoods",
+    "name": "Mixed Fish"
+  },
+  {
+    "description": "Sneeze, coughing, itchy, discharge from the nose, respiratory irritation, congested feeling, joint aches, headaches, fatigue.",
+    "name": "Mold"
+  },
+  {
+    "description": "Inhalant",
+    "name": "Mosquito"
+  },
+  {
+    "description": "Allergic contact dermatitis, dyshidrotic eczema.",
+    "name": "Nickel"
+  },
+  {
+    "description": "Many, including: swollen eyes, lips, or tongue, difficulty swallowing, shortness of breath, rapid heart rate.",
+    "name": "Non-steroidal anti-inflammatories (cromolyn sodium, nedocromil sodium, etc.)"
+  },
+  {
+    "description": "Dermatitis, respiratory problems, anaphylaxis.",
+    "name": "Oats"
+  },
+  {
+    "description": "Various foods",
+    "name": "Onion"
+  },
+  {
+    "description": "Fruits",
+    "name": "Orange"
+  },
+  {
+    "description": "Inhalant",
+    "name": "Orris Root"
+  },
+  {
+    "description": "Meats and Seafoods",
+    "name": "Oyster"
+  },
+  {
+    "description": "Anaphylaxis, sometimes vomiting.",
+    "name": "Peanut"
+  },
+  {
+    "description": "Diarrhea, hypersensitivity, nausea, rash, neurotoxicity, urticaria.",
+    "name": "Penicillin"
+  },
+  {
+    "description": "Various foods",
+    "name": "Pepper Mix"
+  },
+  {
+    "description": "Itchy eyes, runny nose, headaches, muscle/joint pain, asthma attack, wheezing, blisters.",
+    "name": "Perfume"
+  },
+  {
+    "description": "Allergic contact dermatitis",
+    "name": "Photographic developers"
+  },
+  {
+    "description": "Inhalant",
+    "name": "Pigweed Grass"
+  },
+  {
+    "description": "Inhalant",
+    "name": "Pine Mix"
+  },
+  {
+    "description": "Fruits",
+    "name": "Pineapple"
+  },
+  {
+    "description": "Sneezing, body ache, headache (in rare cases, extremely painful cluster headaches may occur due to allergic sinusitis; these may leave a temporary time period of 1 and a half to 2 days with eye sensitivity), allergic conjunctivitis (includes watery, red, swelled, itchy, and irritating eyes), runny nose, irritation of the nose, nasal congestion, minor fatigue, chest pain and discomfort, coughing, sore throat, facial discomfort (feeling of stuffed face) due to allergic sinusitis, possible asthma attack, wheezing.",
+    "name": "Pollen"
+  },
+  {
+    "description": "Meats and Seafoods",
+    "name": "Pork"
+  },
+  {
+    "description": "Various foods",
+    "name": "Potato"
+  },
+  {
+    "description": "Inhalant",
+    "name": "Pyrethrum"
+  },
+  {
+    "description": "Sneezing, runny nose, itching, stomachache, eczema.",
+    "name": "Rice Grain"
+  },
+  {
+    "description": "Meats and Seafoods",
+    "name": "Salmon"
+  },
+  {
+    "description": "Burning, pain and swelling, possibly for days, swelling or blisters, vaginal redness, fever, runny nose, extreme fatigue.",
+    "name": "Semen"
+  },
+  {
+    "description": "Meats and Seafoods",
+    "name": "Shrimp"
+  },
+  {
+    "description": "Anaphylaxis, sometimes vomiting.",
+    "name": "Soy"
+  },
+  {
+    "description": "Fruits",
+    "name": "Strawberry"
+  },
+  {
+    "description": "Various foods",
+    "name": "String Beans"
+  },
+  {
+    "description": "Hives, rash, redness of skin, headache (particular frontal), burning behind eyes, breathing difficulties (anaphylaxis).",
+    "name": "Sulfites"
+  },
+  {
+    "description": "Urinary tract disorders, haemopoietic disorders, porphyria and hypersensitivity reactions, Stevens–Johnson syndrome toxic epidermal necrolysis.",
+    "name": "Sulfonamides"
+  },
+  {
+    "description": "Skin irritation, hives, rash.",
+    "name": "Tartrazine"
+  },
+  {
+    "description": "Shortness of breath, wheezing or difficulty breathing, swelling of the face, lips, tongue etc., hives.",
+    "name": "Tegretol (carbamazepine)"
+  },
+  {
+    "description": "Many, including: severe headache, dizziness, blurred vision, fever, chills, body aches, flu symptoms, severe blistering, peeling, dark colored urine.",
+    "name": "Tetracycline"
+  },
+  {
+    "description": "Fruits",
+    "name": "Tomato"
+  },
+  {
+    "description": "Inhalant",
+    "name": "Tobacco"
+  },
+  {
+    "description": "Anaphylaxis, sometimes vomiting.",
+    "name": "Tree nut"
+  },
+  {
+    "description": "Meats and Seafoods",
+    "name": "Tuna"
+  },
+  {
+    "description": "Epidermal itching.",
+    "name": "Water"
+  },
+  {
+    "description": "Fruits",
+    "name": "Watermelon"
+  },
+  {
+    "description": "Eczema (atopic dermatitis), Hives, asthma, hay fever, angioedema, abdominal cramps, Celiac disease, diarrhea, temporary (3 or 4 day) mental incompetence, anemia, nausea, and vomiting.",
+    "name": "Wheat"
+  }
+]

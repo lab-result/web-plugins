@@ -1,0 +1,119 @@
+[
+  {
+    "selected": true,
+    "type": "core",
+    "id": "emr",
+    "name": "EMR",
+    "icon": "mycure-icon-emr-active.png",
+    "fontIcon": "mdi-pill",
+    "description": "Create SOAP charting, digital prescriptions, med certs, lab orders, and compare lab results anytime, anywhere."
+  },
+  {
+    "selected": true,
+    "type": "core",
+    "id": "billingAdvance",
+    "name": "Advanced Billing",
+    "icon": "mycure-icon-billing-advance-active.png",
+    "fontIcon": "mdi-cash-multiple",
+    "description": "Integrate all clinic transactions into a single database with this Billing Management System Module."
+  },
+  {
+    "selected": false,
+    "type": "premium",
+    "id": "pos",
+    "name": "POS",
+    "icon": "mycure-icon-pos-active.png",
+    "fontIcon": "mdi-desktop-classic",
+    "description": "Complements the Inventory and Billing Modules."
+  },
+  {
+    "selected": false,
+    "type": "premium",
+    "id": "chatBox",
+    "name": "Chat Box",
+    "icon": "mycure-icon-chat-active.png",
+    "fontIcon": "mdi-forum",
+    "description": "Virtually communicate with your clinic staff."
+  },
+  {
+    "selected": false,
+    "type": "premium",
+    "id": "reports",
+    "name": "Reports",
+    "icon": "mycure-icon-report-active.png",
+    "fontIcon": "mdi-file-chart",
+    "description": "Measure your clinic's performance with real-time data."
+  },
+  {
+    "selected": false,
+    "type": "premium",
+    "id": "lis",
+    "name": "LIS",
+    "icon": "mycure-icon-lab-active.png",
+    "fontIcon": "mdi-test-tube",
+    "description": "Communicate with your modern diagnostic machines through HL7 interfacing using this Laboratory Information System (LIS) Module."
+  },
+  {
+    "selected": false,
+    "type": "premium",
+    "id": "ris",
+    "name": "RIS",
+    "icon": "mycure-icon-ris-active.png",
+    "fontIcon": "mdi-radioactive",
+    "description": "View DICOM images and imaging reports remotely using this Sonology and Radiology Information System (RIS)."
+  },
+  {
+    "selected": false,
+    "type": "premium",
+    "id": "inventory",
+    "name": "Inventory",
+    "icon": "mycure-icon-inventory-active.png",
+    "fontIcon": "mdi-clipboard-check",
+    "description": "Monitor in-house supplies and over-the-counter products with this Inventory Management System Module built for healthcare facilities."
+  },
+  {
+    "selected": false,
+    "type": "premium",
+    "id": "syncGateway",
+    "name": "Syncbase",
+    "icon": "mycure-icon-syncGateway-active.png",
+    "fontIcon": "mdi-cloud-sync",
+    "description": "The system works even when offline."
+  },
+  {
+    "selected": false,
+    "type": "premium",
+    "id": "PMEorEPE",
+    "name": "PME",
+    "icon": "mycure-icon-pmeepe-active.png",
+    "fontIcon": "mdi-ambulance",
+    "description": "Manage corporate and private APE, PEME, and FME."
+  },
+  {
+    "selected": false,
+    "type": "premium-services",
+    "id": "DPAGuide",
+    "name": "DPA Guide",
+    "icon": "mycure-icon-dpa-active.png",
+    "fontIcon": "mdi-format-list-checks",
+    "description": "Step-by-step guide to DPA compliance for doctors and clinics."
+  },
+  {
+    "selected": false,
+    "type": "premium-services",
+    "id": "premiumSupport",
+    "name": "Awesome Care",
+    "icon": "mycure-icon-support-active.png",
+    "fontIcon": "mdi-account-heart",
+    "description": "Get help quickly from our hands-on support team."
+  },
+  {
+    "selected": false,
+    "type": "premium-services",
+    "id": "specialtyFeatures",
+    "name": "Specialty Features",
+    "icon": "mycure-icon-specialty-feat-active.png",
+    "fontIcon": "mdi-account-star",
+    "description": "Activate premium tools for different doctor specializations."
+  }
+]

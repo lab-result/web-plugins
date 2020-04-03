@@ -1,0 +1,528 @@
+[
+  {
+    "type": "default",
+    "name": "Default",
+    "surfaces": [
+      {
+        "toothType": "incisor",
+        "position": "top",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "palatal",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "canine",
+        "position": "top",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "palatal",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "pre-molar",
+        "position": "top",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "palatal",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "molar",
+        "position": "top",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "palatal",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "incisor",
+        "position": "bot",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "lingual",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "canine",
+        "position": "bot",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "lingual",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "pre-molar",
+        "position": "bot",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "lingual",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "molar",
+        "position": "bot",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "lingual",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "icdas",
+    "name": "ICDAS",
+    "surfaces": [
+      {
+        "toothType": "incisor",
+        "position": "top",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "palatal",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "canine",
+        "position": "top",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "palatal",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "pre-molar",
+        "position": "top",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "palatal",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "molar",
+        "position": "top",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "palatal",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "incisor",
+        "position": "bot",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "lingual",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "canine",
+        "position": "bot",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "lingual",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "pre-molar",
+        "position": "bot",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "lingual",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "molar",
+        "position": "bot",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "lingual",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "implant",
+    "name": "Implant",
+    "surfaces": [
+      {
+        "toothType": "incisor",
+        "position": "top",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "palatal",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "canine",
+        "position": "top",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "palatal",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "pre-molar",
+        "position": "top",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "palatal",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "molar",
+        "position": "top",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "palatal",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "incisor",
+        "position": "bot",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "lingual",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "canine",
+        "position": "bot",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "lingual",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "pre-molar",
+        "position": "bot",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "lingual",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "molar",
+        "position": "bot",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "lingual",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "rct",
+    "name": "RCT",
+    "surfaces": [
+      {
+        "toothType": "incisor",
+        "position": "top",
+        "surfaces": [
+          "single-canal",
+          "labial-canal",
+          "palatal-canal"
+        ]
+      },
+      {
+        "toothType": "canine",
+        "position": "top",
+        "surfaces": [
+          "single-canal",
+          "labial-canal",
+          "palatal-canal"
+        ]
+      },
+      {
+        "toothType": "pre-molar",
+        "position": "top",
+        "surfaces": [
+          "single-canal",
+          "buccal-canal",
+          "palatal-canal"
+        ]
+      },
+      {
+        "toothType": "molar",
+        "position": "top",
+        "surfaces": [
+          "single-canal",
+          "buccal-canal",
+          "palatal-canal",
+          "mesio-buccal-canal",
+          "disto-buccal-canal"
+        ]
+      },
+      {
+        "toothType": "incisor",
+        "position": "bot",
+        "surfaces": [
+          "single-canal",
+          "labial-canal",
+          "palatal-canal"
+        ]
+      },
+      {
+        "toothType": "canine",
+        "position": "bot",
+        "surfaces": [
+          "single-canal",
+          "labial-canal",
+          "palatal-canal"
+        ]
+      },
+      {
+        "toothType": "pre-molar",
+        "position": "bot",
+        "surfaces": [
+          "single-canal",
+          "buccal-canal",
+          "palatal-canal"
+        ]
+      },
+      {
+        "toothType": "molar",
+        "position": "bot",
+        "surfaces": [
+          "single-canal",
+          "mesial-canal",
+          "distal-canal",
+          "mesio-buccal-canal",
+          "mesio-lingual-canal",
+          "disto-buccal-canal",
+          "disto-lingual-canal",
+          "mesio-buccal-1-canal",
+          "mesio-buccal-2-canal"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "surfaces",
+    "name": "Surfaces",
+    "surfaces": [
+      {
+        "toothType": "incisor",
+        "position": "top",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "palatal",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "canine",
+        "position": "top",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "palatal",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "pre-molar",
+        "position": "top",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "palatal",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "molar",
+        "position": "top",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "palatal",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "incisor",
+        "position": "bot",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "lingual",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "canine",
+        "position": "bot",
+        "surfaces": [
+          "labial",
+          "mesial",
+          "lingual",
+          "distal",
+          "incisal",
+          "cervical-labial",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "pre-molar",
+        "position": "bot",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "lingual",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      },
+      {
+        "toothType": "molar",
+        "position": "bot",
+        "surfaces": [
+          "buccal",
+          "mesial",
+          "lingual",
+          "distal",
+          "occlusal",
+          "cervical-buccal",
+          "cervical-lingual"
+        ]
+      }
+    ]
+  }
+]

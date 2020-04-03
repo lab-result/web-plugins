@@ -1,0 +1,62 @@
+[
+  {
+    "id": "profession-md",
+    "value": "MD",
+    "text": "Doctor of Medicine"
+  },
+  {
+    "id": "profession-pharmd",
+    "value": "PharmD",
+    "text": "Doctor of Pharmacy"
+  },
+  {
+    "id": "profession-rn",
+    "value": "RN",
+    "text": "Registered Nurse"
+  },
+  {
+    "id": "profession-rnc",
+    "value": "RNC",
+    "text": "Registered Nurse Clinician"
+  },
+  {
+    "id": "profession-od",
+    "value": "OD",
+    "text": "Doctor of Optometry"
+  },
+  {
+    "id": "profession-dc",
+    "value": "DC",
+    "text": "Doctor of Chiropractic"
+  },
+  {
+    "id": "profession-dds",
+    "value": "DDS",
+    "text": "Doctor of Dental Surgery"
+  },
+  {
+    "id": "profession-dmd",
+    "value": "DMD",
+    "text": "Doctor of Dental Medicine"
+  },
+  {
+    "id": "profession-do",
+    "value": "DO",
+    "text": "Doctor of Osteopathy"
+  },
+  {
+    "id": "profession-dvm",
+    "value": "DVM",
+    "text": "Doctor of Veterinary Medicine"
+  },
+  {
+    "id": "profession-rm",
+    "value": "RM",
+    "text": "Registered Midwife"
+  },
+  {
+    "id": "profession-np",
+    "value": "NP",
+    "text": "Nurse Practitioner"
+  }
+]

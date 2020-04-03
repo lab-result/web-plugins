@@ -1,0 +1,315 @@
+[
+  {
+    "row": 1,
+    "quadrants": [
+      {
+        "quadrant": "1",
+        "teeth": [
+          {
+            "tooth": null
+          },
+          {
+            "tooth": null
+          },
+          {
+            "tooth": null
+          },
+          {
+            "tooth": "55",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "54",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "53",
+            "toothType": "canine"
+          },
+          {
+            "tooth": "52",
+            "toothType": "incisor"
+          },
+          {
+            "tooth": "51",
+            "toothType": "incisor",
+            "class": "border-right"
+          }
+        ]
+      },
+      {
+        "quadrant": "2",
+        "teeth": [
+          {
+            "tooth": "61",
+            "toothType": "incisor",
+            "class": "border-left"
+          },
+          {
+            "tooth": "62",
+            "toothType": "incisor"
+          },
+          {
+            "tooth": "63",
+            "toothType": "canine"
+          },
+          {
+            "tooth": "64",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "65",
+            "toothType": "molar"
+          },
+          {
+            "tooth": null
+          },
+          {
+            "tooth": null
+          },
+          {
+            "tooth": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": 2,
+    "class": "border-bottom",
+    "quadrants": [
+      {
+        "quadrant": "3",
+        "teeth": [
+          {
+            "tooth": "18",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "17",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "16",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "15",
+            "toothType": "pre-molar"
+          },
+          {
+            "tooth": "14",
+            "toothType": "pre-molar"
+          },
+          {
+            "tooth": "13",
+            "toothType": "canine"
+          },
+          {
+            "tooth": "12",
+            "toothType": "incisor"
+          },
+          {
+            "tooth": "11",
+            "toothType": "incisor",
+            "class": "border-right"
+          }
+        ]
+      },
+      {
+        "quadrant": "4",
+        "teeth": [
+          {
+            "tooth": "21",
+            "toothType": "incisor",
+            "class": "border-left"
+          },
+          {
+            "tooth": "22",
+            "toothType": "incisor"
+          },
+          {
+            "tooth": "23",
+            "toothType": "canine"
+          },
+          {
+            "tooth": "24",
+            "toothType": "pre-molar"
+          },
+          {
+            "tooth": "25",
+            "toothType": "pre-molar"
+          },
+          {
+            "tooth": "26",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "27",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "28",
+            "toothType": "molar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": 3,
+    "quadrants": [
+      {
+        "quadrant": "5",
+        "teeth": [
+          {
+            "tooth": "48",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "47",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "46",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "45",
+            "toothType": "pre-molar"
+          },
+          {
+            "tooth": "44",
+            "toothType": "pre-molar"
+          },
+          {
+            "tooth": "43",
+            "toothType": "canine"
+          },
+          {
+            "tooth": "42",
+            "toothType": "incisor"
+          },
+          {
+            "tooth": "41",
+            "toothType": "incisor",
+            "class": "border-right"
+          }
+        ]
+      },
+      {
+        "quadrant": "6",
+        "teeth": [
+          {
+            "tooth": "31",
+            "toothType": "incisor",
+            "class": "border-left"
+          },
+          {
+            "tooth": "32",
+            "toothType": "incisor"
+          },
+          {
+            "tooth": "33",
+            "toothType": "canine"
+          },
+          {
+            "tooth": "34",
+            "toothType": "pre-molar"
+          },
+          {
+            "tooth": "35",
+            "toothType": "pre-molar"
+          },
+          {
+            "tooth": "36",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "37",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "38",
+            "toothType": "molar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": 4,
+    "quadrants": [
+      {
+        "quadrant": "7",
+        "teeth": [
+          {
+            "tooth": null
+          },
+          {
+            "tooth": null
+          },
+          {
+            "tooth": null
+          },
+          {
+            "tooth": "85",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "84",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "83",
+            "toothType": "canine"
+          },
+          {
+            "tooth": "82",
+            "toothType": "incisor"
+          },
+          {
+            "tooth": "81",
+            "toothType": "incisor",
+            "class": "border-right"
+          }
+        ]
+      },
+      {
+        "quadrant": "8",
+        "teeth": [
+          {
+            "tooth": "71",
+            "toothType": "incisor",
+            "class": "border-left"
+          },
+          {
+            "tooth": "72",
+            "toothType": "incisor"
+          },
+          {
+            "tooth": "73",
+            "toothType": "canine"
+          },
+          {
+            "tooth": "74",
+            "toothType": "molar"
+          },
+          {
+            "tooth": "75",
+            "toothType": "molar"
+          },
+          {
+            "tooth": null
+          },
+          {
+            "tooth": null
+          },
+          {
+            "tooth": null
+          }
+        ]
+      }
+    ]
+  }
+]

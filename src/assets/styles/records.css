@@ -1,0 +1,13 @@
+.record-header {
+  outline: 1px solid lightgrey; 
+  background-color: #F7F8F8
+}
+
+.record-body {
+  outline: 1px solid lightgrey; 
+  margin-top: 1px;
+}
+
+.record-preview {
+  outline: 1px solid lightgrey;
+}

@@ -1,0 +1,310 @@
+[
+  {
+    "category": "BCG",
+    "index": 0,
+    "shots": [
+      {
+        "schedule": "Birth",
+        "vaccine": "BCG"
+      }
+    ]
+  },
+  {
+    "category": "HepB",
+    "index": 1,
+    "shots": [
+      {
+        "schedule": "Birth",
+        "vaccine": "HepB (1 of 4)"
+      },
+      {
+        "schedule": "4-8 Weeks",
+        "vaccine": "HepB (2 of 4)"
+      },
+      {
+        "schedule": "10-16 weeks",
+        "vaccine": "HepB (3 of 4)"
+      },
+      {
+        "schedule": "3 to 12 months",
+        "vaccine": "HepB (4 of 4)"
+      }
+    ]
+  },
+  {
+    "category": "DTwP or DTaP",
+    "index": 2,
+    "shots": [
+      {
+        "schedule": "6-8 Weeks",
+        "vaccine": "DTwP or DTaP (1 of 3)"
+      },
+      {
+        "schedule": "10-16 Weeks",
+        "vaccine": "DTwP or DTaP (2 of 3)"
+      },
+      {
+        "schedule": "14-24 weeks",
+        "vaccine": "DTwP or DTaP (3 of 3)"
+      },
+      {
+        "schedule": "12 to 18 months",
+        "vaccine": "DTwP or DTaP (Booster 1)"
+      },
+      {
+        "schedule": "4 to 6 years",
+        "vaccine": "DTwP or DTaP (Booster 2)"
+      }
+    ]
+  },
+  {
+    "category": "OPV IPV",
+    "index": 3,
+    "shots": [
+      {
+        "schedule": "6-8 Weeks",
+        "vaccine": "OPV IPV (1 of 3)"
+      },
+      {
+        "schedule": "10-16 Weeks",
+        "vaccine": "OPV IPV (2 of 3)"
+      },
+      {
+        "schedule": "14-24 weeks",
+        "vaccine": "OPV IPV (3 of 3)"
+      },
+      {
+        "schedule": "12 to 18 months",
+        "vaccine": "OPV IPV (Booster 1)"
+      },
+      {
+        "schedule": "4 to 6 years",
+        "vaccine": "OPV IPV (Booster 2)"
+      }
+    ]
+  },
+  {
+    "category": "Hib",
+    "index": 4,
+    "shots": [
+      {
+        "schedule": "6-8 Weeks",
+        "vaccine": "Hib (1 of 3)"
+      },
+      {
+        "schedule": "10-16 Weeks",
+        "vaccine": "Hib (2 of 3)"
+      },
+      {
+        "schedule": "14-24 weeks",
+        "vaccine": "Hib (3 of 3)"
+      },
+      {
+        "schedule": "12 to 18 months",
+        "vaccine": "Hib (Booster 1)"
+      }
+    ]
+  },
+  {
+    "category": "RV Series",
+    "index": 5,
+    "shots": [
+      {
+        "schedule": "2 to 8 months",
+        "vaccine": "RV Series (1 of 3)"
+      },
+      {
+        "schedule": "4 to 6 months",
+        "vaccine": "RV (2 of 3)"
+      },
+      {
+        "schedule": "6 to 8 months",
+        "vaccine": "RV (3 of 3)"
+      }
+    ]
+  },
+  {
+    "category": "PCV",
+    "index": 6,
+    "shots": [
+      {
+        "schedule": "6-8 Weeks",
+        "vaccine": "PCV (1 of 4)"
+      },
+      {
+        "schedule": "10-16 Weeks",
+        "vaccine": "PCV (2 of 4)"
+      },
+      {
+        "schedule": "14-24 weeks",
+        "vaccine": "PCV (3 of 4)"
+      },
+      {
+        "schedule": "12 to 15 months",
+        "vaccine": "PCV (4 of 4)"
+      }
+    ]
+  },
+  {
+    "category": "MMR",
+    "index": 7,
+    "shots": [
+      {
+        "schedule": "12 to 15 months",
+        "vaccine": "MMR (1 of 2)"
+      },
+      {
+        "schedule": "1 to 6 years",
+        "vaccine": "MMR (2 of 2)"
+      }
+    ]
+  },
+  {
+    "category": "Varicella",
+    "index": 8,
+    "shots": [
+      {
+        "schedule": "12 to 15 months",
+        "vaccine": "Varicella (1 of 2)"
+      },
+      {
+        "schedule": "1 to 6 years",
+        "vaccine": "Varicella (2 of 2)"
+      }
+    ]
+  },
+  {
+    "category": "HepA Series",
+    "index": 9,
+    "shots": [
+      {
+        "schedule": "1 to 2 years",
+        "vaccine": "HepA (1 of 2)"
+      },
+      {
+        "schedule": "2 to 18 years",
+        "vaccine": "HepA (2 of 2)"
+      }
+    ]
+  },
+  {
+    "category": "Tdap Td",
+    "index": 10,
+    "shots": [
+      {
+        "schedule": "7 to 18 years",
+        "vaccine": "Tdap Td (1 of 2)"
+      },
+      {
+        "schedule": "12 to 18 years",
+        "vaccine": "Tdap Td (2 of 2)"
+      }
+    ]
+  },
+  {
+    "category": "JE Vaccine",
+    "index": 11,
+    "shots": [
+      {
+        "schedule": "9 months to 18 years",
+        "vaccine": "JE Vaccine (1 of 2)"
+      },
+      {
+        "schedule": "9 months to 18 years",
+        "vaccine": "JE Vaccine (2 of 2)"
+      }
+    ]
+  },
+  {
+    "category": "Influenza",
+    "index": 12,
+    "shots": [
+      {
+        "schedule": "6 months to 18 years",
+        "vaccine": "Influenza (1 of 5)"
+      },
+      {
+        "schedule": "6 months to 18 years",
+        "vaccine": "Influenza (2 of 5)"
+      },
+      {
+        "schedule": "6 months to 18 years",
+        "vaccine": "Influenza (3 of 5)"
+      },
+      {
+        "schedule": "6 months to 18 years",
+        "vaccine": "Influenza (4 of 5)"
+      },
+      {
+        "schedule": "6 months to 18 years",
+        "vaccine": "Influenza (5 of 5)"
+      }
+    ]
+  },
+  {
+    "category": "Measles",
+    "index": 13,
+    "shots": [
+      {
+        "schedule": "9 to 12 months",
+        "vaccine": "Measles"
+      }
+    ]
+  },
+  {
+    "category": "HPV Series",
+    "index": 14,
+    "shots": [
+      {
+        "schedule": "9 to 18 years",
+        "vaccine": "HPV (1 of 3)"
+      },
+      {
+        "schedule": "9 to 18 years",
+        "vaccine": "HPV (2 of 3)"
+      },
+      {
+        "schedule": "9 to 18 years",
+        "vaccine": "HPV (3 of 3)"
+      }
+    ]
+  },
+  {
+    "category": "PPV 23",
+    "index": 15,
+    "shots": [
+      {
+        "schedule": "7 to 18 years",
+        "vaccine": "PPV 23 (1 of 1)"
+      }
+    ]
+  },
+  {
+    "category": "Dengue Vaccine",
+    "index": 16,
+    "shots": [
+      {
+        "schedule": "0 to 6 months",
+        "vaccine": "Dengue Vaccine (1 of 3)"
+      },
+      {
+        "schedule": "6 to 12 months",
+        "vaccine": "Dengue Vaccine (2 of 3)"
+      },
+      {
+        "schedule": "12 months and above",
+        "vaccine": "Dengue Vaccine (3 of 3)"
+      }
+    ]
+  },
+  {
+    "category": "Meningococcal",
+    "index": 17,
+    "shots": [
+      {
+        "schedule": "9 months to 6 years",
+        "vaccine": "Meningococcal (1 of 1)"
+      }
+    ]
+  }
+]

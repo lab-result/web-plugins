@@ -1,0 +1,173 @@
+{
+  "name": "@labresultorg/web-plugins",
+  "version": "0.1.0",
+  "description": "Shared Vue plugins for LabResult.org web apps",
+  "main": "src/index.js",
+  "author": "Jofferson R Tiquez",
+  "license": "MIT",
+  "files": [
+    "lib",
+    "src",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "vue-cli-service test:unit",
+    "lint": "standardx --fix"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-barcode": "^1.0.0",
+    "@chenfengyuan/vue-qrcode": "^1.0.0",
+    "@mycure/vue-plugins": "^0.6.23",
+    "@mycure/vue-wysiwyg": "^1.2.5",
+    "apexcharts": "^3.8.1",
+    "chart.js": "^2.7.3",
+    "cropperjs": "^1.5.1",
+    "date-fns": "^1.30.1",
+    "debug": "^4.1.1",
+    "flush-promises": "^1.0.2",
+    "forEachAsync": "^3.0.0",
+    "lodash": "^4.17.15",
+    "pretty-ms": "^5.0.0",
+    "roboto-fontface": "*",
+    "rxjs": "^6.5.2",
+    "v-calendar-scheduler": "^0.7.4",
+    "v-money": "^0.8.1",
+    "v-viewer": "^1.4.0",
+    "viewerjs": "^1.3.2",
+    "vue-apexcharts": "^1.4.0",
+    "vue-chartjs": "^3.4.0",
+    "vue-color": "^2.7.0",
+    "vue-croppie": "^1.3.13",
+    "vue-html2canvas": "^0.0.4",
+    "vue-morphling": "^0.8.8",
+    "vue-scrollto": "^2.15.0",
+    "vue-toasted": "^1.1.27",
+    "vue-tour": "^1.2.0",
+    "vue-wysiwyg": "^1.7.2",
+    "vuedraggable": "^2.17.0",
+    "xlsx": "^0.14.1"
+  },
+  "peerDependencies": {
+    "@mycure/sdk": "^5.7.3",
+    "vue": "^2.6.11",
+    "vue-fragment": "^1.5.1",
+    "vue-router": "^3.0.1",
+    "vuetify": "^1.5.16",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-optional-chaining": "^7.8.3",
+    "@commitlint/cli": "^8.3.4",
+    "@commitlint/config-conventional": "^8.3.4",
+    "@mdi/font": "^2.6.95",
+    "@mycure/mf-auth": "^5.30.1",
+    "@mycure/mf-commons": "^5.30.1",
+    "@mycure/mf-organizations": "^5.30.1",
+    "@mycure/sdk": "^5.7.3",
+    "@mycure/sdk-js": "^5.30.1",
+    "@vue/cli-plugin-babel": "^4.1.2",
+    "@vue/cli-plugin-unit-jest": "^4.1.2",
+    "@vue/cli-service": "^4.1.2",
+    "@vue/test-utils": "^1.0.0-beta.30",
+    "babel-eslint": "^10.0.3",
+    "babel-plugin-component": "^1.1.1",
+    "core-js": "^3.6.4",
+    "eslint-plugin-jest": "^23.6.0",
+    "eslint-plugin-vue": "^6.1.2",
+    "faker": "^4.1.0",
+    "firebase": "^5.8.5",
+    "jest-transform-stub": "^2.0.0",
+    "lint-staged": "^9.5.0",
+    "portal-vue": "^2.1.7",
+    "pug": "^2.0.4",
+    "pug-plain-loader": "^1.0.0",
+    "sass": "^1.24.4",
+    "sass-loader": "^8.0.2",
+    "socket.io-client": "^2.2.0",
+    "standardx": "^5.0.0",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "vue": "^2.6.11",
+    "vue-fragment": "^1.5.1",
+    "vue-router": "^3.0.1",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify": "^1.5.16",
+    "vuex": "^3.1.2",
+    "yorkie": "^2.0.0"
+  },
+  "eslintConfig": {
+    "parserOptions": {
+      "parser": "babel-eslint",
+      "sourceType": "module"
+    },
+    "plugins": [
+      "vue",
+      "jest"
+    ],
+    "extends": [
+      "plugin:vue/recommended",
+      "plugin:jest/recommended"
+    ],
+    "env": {
+      "jest/globals": true
+    },
+    "rules": {
+      "semi": [
+        2,
+        "always"
+      ],
+      "no-extra-semi": 2,
+      "comma-dangle": [
+        "error",
+        "always-multiline"
+      ],
+      "no-void": 0
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged",
+    "commit-msg": "commitlint -E GIT_PARAMS"
+  },
+  "lint-staged": {
+    "*.js": [
+      "standardx --fix",
+      "git add"
+    ],
+    "*.vue": [
+      "standardx --fix",
+      "git add"
+    ]
+  },
+  "jest": {
+    "preset": "@vue/cli-plugin-unit-jest",
+    "globals": {
+      "vue-jest": {
+        "pug": {
+          "doctype": "html"
+        }
+      }
+    },
+    "transformIgnorePatterns": [
+      "<rootDir>/node_modules/(?!vuetify)"
+    ],
+    "moduleNameMapper": {
+      ".+\\.mp3": "<rootDir>/__mocks__/mp3-mock.js",
+      "^@mycure/vue-plugins/lib/(.*)$": "<rootDir>/node_modules/@mycure/vue-plugins/src/$1",
+      "^.+\\.(css|styl|less|sass|scss|png|jpg|ttf|woff|woff2)$": "jest-transform-stub"
+    }
+  }
+}

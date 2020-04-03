@@ -1,0 +1,186 @@
+[
+  {
+    "title": "<span>Download the DPO Form here:  <a target=\"_blank\" href=\"https://privacy.gov.ph/wp-content/files/attachments/nwsltr/DPO_Form_Individual_05022018.pdf\">Download DPO Registration Form</a>.</span>",
+    "required": true,
+    "number": 1,
+    "tags": [
+      "step-1"
+    ]
+  },
+  {
+    "title": "<span>Fill out the form DIGITALLY with a PDF Reader. Don't have a PDF Reader? <a target=\"_blank\" href=\"https://get.adobe.com/reader/\">Download free here</a>.</span>",
+    "required": true,
+    "number": 2,
+    "tags": [
+      "step-1"
+    ]
+  },
+  {
+    "title": "Click the toolbox icon on the PDF Reader and click on the blanks and type!",
+    "required": true,
+    "number": 3,
+    "tags": [
+      "step-1"
+    ]
+  },
+  {
+    "title": "Add your DIGITAL signature by clicking the Signature icon and taking a photo of your signature on a piece of paper.",
+    "required": true,
+    "number": 4,
+    "tags": [
+      "step-1"
+    ]
+  },
+  {
+    "title": "Save the document as \"fullname_dpo\".",
+    "required": true,
+    "number": 5,
+    "tags": [
+      "step-1"
+    ]
+  },
+  {
+    "title": "<span>Send this file via email to <a href=\"mailto:dpo_indprof@privacy.gov.ph\" target=\"_top\">dpo_indprof@privacy.gov.ph</a>.</span>",
+    "required": true,
+    "number": 6,
+    "tags": [
+      "step-1"
+    ]
+  },
+  {
+    "title": "Receive a confirmation email and follow the instructions provided.",
+    "required": true,
+    "number": 7,
+    "tags": [
+      "step-1"
+    ]
+  },
+  {
+    "title": "Receive an access key via SMS. You will use this key to access your DPO account and proceed to Phase 2.",
+    "required": true,
+    "number": 8,
+    "tags": [
+      "step-1"
+    ]
+  },
+  {
+    "title": "<span>Activate your NPC account. <a href=\"http://register.privacy.gov.ph/Welcome\" target=\"_blank\">Sign in to NPC here</a>.</span>",
+    "description": "Follow the instructions from the email until you have created your email and password for your account.",
+    "required": true,
+    "number": 9,
+    "tags": [
+      "step-1"
+    ]
+  },
+  {
+    "title": "<span>Add MYCURE as your DPS <a target=\"_blank\" href=\"https://register.privacy.gov.ph/\">here</a>, Watch how to do it <a target=\"_blank\" href=\"https://www.youtube.com/watch?v=ak6gNrltZg0&index=5&t=0s&list=PL3nZLqhV9A9F8euBi0jdy5v6Gei6st0AE\">here</a></span>.",
+    "description": "<p><a target=\"_blank\" href=\"https://www.youtube.com/watch?v=ak6gNrltZg0&index=5&t=0s&list=PL3nZLqhV9A9F8euBi0jdy5v6Gei6st0AE\">Watch how MYCURE can help</a></p><p>Please check this box ONLY IF you are going to use MYCURE as your DPS. Using MYCURE Doctor as your EMR system automatically assigns us as one of your Data Processing Systems (i.e. we do most of the security protocols for all of the information that you enter in our system)</p><p>Although MYCURE helps you process most of your medical records digitally, you still need to declare all other DPS that involve paper record processing.</p>",
+    "required": false,
+    "number": 1,
+    "tags": [
+      "step-2"
+    ]
+  },
+  {
+    "title": "Add your other Data Processing System/s.",
+    "description": "<span>Examples:</span><br><ul><li>Paper medical records Storage and Retrieval</li><li>HMO Transaction Management</li><li>Payment Collection</li></ul>",
+    "required": true,
+    "number": 2,
+    "tags": [
+      "step-2"
+    ]
+  },
+  {
+    "title": "Submit all DPS.",
+    "description": "The last step before being officially registered to the NPC is to submit all the DPS. Simply click on the \"Submit all DPS\" button.",
+    "required": true,
+    "number": 3,
+    "tags": [
+      "step-2"
+    ]
+  },
+  {
+    "title": "Receive Digital Receipt from NPC.",
+    "description": "Getting the NPC Registration Digital Receipt means that your clinic is now officially registered to the NPC roster of PICs.",
+    "required": true,
+    "number": 4,
+    "tags": [
+      "step-2"
+    ]
+  },
+  {
+    "title": "Conduct a Privacy Impact Assessment (PIA).",
+    "description": "<p>Definition: \"Privacy Impact Assessment is a process undertaken and used to evaluate and manage impacts on privacy of a particular program, project, process, measure, system or technology product of a PIC or PIP programâ€¦\"</p><p>You need to update this every time you have a new data processing system.</p><p><a href=\"https://privacy.gov.ph/wp-content/uploads/NPC-PIA-Template-v2.pdf\" target=\"_blank\">Download template here</a></p>",
+    "required": true,
+    "number": 1,
+    "tags": [
+      "step-3"
+    ]
+  },
+  {
+    "title": "Create a Privacy Management Program (PMP).",
+    "description": "<p>Definition: \"Privacy Management Program refers to a process intended to embed privacy and data protection in the strategic framework and daily operations of a personal information controller or personal information processor, maintained through organizational commitment and oversight of coordinated projects and activities.\"</p><p><a href=\"https://privacy.gov.ph/wp-content/files/attachments/Privacy-Toolkit-compressedAug152017a.pdf\" target=\"_blank\">Download template here</a></p>",
+    "required": true,
+    "number": 2,
+    "tags": [
+      "step-3"
+    ]
+  },
+  {
+    "title": "Compose a Privacy Manual.",
+    "description": "<p>\"The [Privacy] Manual serves as a guide or handbook for ensuring the compliance of an organization or entity with the DPA, its Implementing Rules and Regulations (IRR), and other relevant issuances of the National Privacy Commission (NPC).\"</p><p><a href=\"https://privacy.gov.ph/wp-content/files/attachments/Privacy-Toolkit-compressedAug152017a.pdf\" target=\"_blank\">Download template here</a></p>",
+    "required": true,
+    "number": 3,
+    "tags": [
+      "step-3"
+    ]
+  },
+  {
+    "title": "Create Annual Security Incident Report.",
+    "description": "<p>This is the <a target=\"_blank\" href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=xexKwK2uHEWnGuchhfpsq_P5oHZmPqZOr1FY6esjlclUOExHNVZVWURFWkozNE5NUUROVjNPUllPVi4u\">template</a> provided by the NPC, for the period of January to December 2017.</p><p>Non-submission of the required Annual Security Incident and Personal Data Breach Reports shall create the presumption that no such security incident or personal data breach occurred during the covered period.</p>",
+    "required": true,
+    "number": 1,
+    "tags": [
+      "step-4"
+    ]
+  },
+  {
+    "title": "Send to NPC (2018 Report).",
+    "required": true,
+    "number": 2,
+    "tags": [
+      "step-4"
+    ]
+  },
+  {
+    "title": "1st quarter Privacy Check.",
+    "required": true,
+    "number": 1,
+    "tags": [
+      "step-5"
+    ]
+  },
+  {
+    "title": "2nd quarter Privacy Check.",
+    "required": true,
+    "tags": [
+      "step-5"
+    ]
+  },
+  {
+    "title": "3rd quarter Privacy Check.",
+    "required": true,
+    "number": 2,
+    "tags": [
+      "step-5"
+    ]
+  },
+  {
+    "title": "4th quarter Privacy Check.",
+    "required": true,
+    "number": 3,
+    "tags": [
+      "step-5"
+    ]
+  }
+]
