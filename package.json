@@ -45,7 +45,7 @@
     "vue-tour": "^1.2.0",
     "vue-wysiwyg": "^1.7.2",
     "vuedraggable": "^2.17.0",
-    "xlsx": "^0.14.1"
+    "xlsx": "^0.17.0"
   },
   "peerDependencies": {
     "@mycure/sdk": "^5.7.3",
